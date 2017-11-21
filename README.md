@@ -1,7 +1,11 @@
-# C# Functional Links
+# C# Functional Programming Links
 A collection of links related to functional programming for C# developers.
 
-## Eric Lippert: Monads
+## Blog Posts
+* [Tasks, Monads, and LINQ](Tasks, Monads, and LINQ) by Stephen Toub
+* [The Marvels of Monads](https://blogs.msdn.microsoft.com/wesdyer/2008/01/10/the-marvels-of-monads/) by Wes Dyer
+
+## Monads Series by Eric Lippert
 * [Part 1](https://ericlippert.com/2013/02/21/monads-part-one/)
 * [Part 2](https://ericlippert.com/2013/02/25/monads-part-two/)
 * [Part 3](https://ericlippert.com/2013/02/28/monads-part-three/)
