@@ -2,7 +2,7 @@
 A collection of links related to functional programming for C# developers.
 
 ## Blog Posts
-* [Tasks, Monads, and LINQ](Tasks, Monads, and LINQ) by Stephen Toub
+* [Tasks, Monads, and LINQ](https://blogs.msdn.microsoft.com/pfxteam/2013/04/03/tasks-monads-and-linq/) by Stephen Toub
 * [The Marvels of Monads](https://blogs.msdn.microsoft.com/wesdyer/2008/01/10/the-marvels-of-monads/) by Wes Dyer
 
 ## Monads Series by Eric Lippert
