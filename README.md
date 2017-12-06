@@ -7,3 +7,5 @@ A collection of links related to functional programming for C# developers.
 * [Tasks, Monads, and LINQ](https://blogs.msdn.microsoft.com/pfxteam/2013/04/03/tasks-monads-and-linq/) by Stephen Toub
 * [The Marvels of Monads](https://blogs.msdn.microsoft.com/wesdyer/2008/01/10/the-marvels-of-monads/) by Wes Dyer
 
+** Online Books
+* [Expert Functional Programming and LINQ via C#](https://weblogs.asp.net/dixin/linq-via-csharp) by Dixin Yan
